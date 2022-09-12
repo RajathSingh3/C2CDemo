@@ -74,9 +74,5 @@ GROUP BY b.f_id;
 
 select * from flightrevenue;
 
-Changes
-
-
-
 
 
